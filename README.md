@@ -10,6 +10,8 @@ npm install axios --save
 ```
 ## Running
 ```
-cd client; npm start;
+cd client
+(Optional) npm install # only when first time cloning and using so you can install all the node_modules from package.json
+npm start
 open browser at localhost:3000
 ```
